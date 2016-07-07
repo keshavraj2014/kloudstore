@@ -1,2 +1,3 @@
 My test3 text file1
+My test3 text fileNewCloudStore
 My test3 text file2
