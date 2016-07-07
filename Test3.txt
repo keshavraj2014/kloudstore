@@ -1,2 +1,3 @@
 My test3 text file1
+My test3 text fileNew		KloudStore
 My test3 text file2
