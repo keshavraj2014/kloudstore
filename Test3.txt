@@ -2,4 +2,5 @@ My test3 text file1
 My test3 text fileNewCloudStore
 My test3 text fileNew		KloudStore
 My test3 text file2
-kloudstore2 changes3
+My test3 text file2
+kloudstore1 changes3
